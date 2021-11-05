@@ -4,22 +4,22 @@
 
  ```python
   class WhoAmI:
-    user = 'Jaydeep Yadav'
-	current_edu = "CSIT"
-    currently_learning = "Javascript"
-    fun_fact = "I hate Chillies"
+    user = 'Chrys Oliveira'
+	current_edu = "SENAC"
+    currently_learning = "Java/Spring"
+    fun_fact = "I hate insects"
 	hobbies = [
 				'Music',
                          'Chilling',
 			 	'Gaming',
-				'Sci-Fi Movies'
+				'Animes'
 			]
 	
 	def getCity():
-		return Chhattisgarh_India()
+		return SaoPaulo_Brazil()
 	
 	def Ambitions():
-		BecomeSoftwareEngineer()
+		BecomeSoftwareDeveloper()
 		FinishMyProjects()
 	
  ```
