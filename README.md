@@ -7,7 +7,7 @@
     user = 'Chrys Oliveira'
 	current_edu = "SENAC"
     currently_learning = "Java/Spring"
-    fun_fact = "I hate insects"
+    fun_fact = "I use arch btw"
 	hobbies = [
 				'Music',
                          'Chilling',
