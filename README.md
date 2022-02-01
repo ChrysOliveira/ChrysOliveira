@@ -29,7 +29,6 @@
 
 <img src="https://github-readme-stats.vercel.app/api?username=oChrys&&show_icons=true&count_private=true&theme=github_dark">|<img src="https://github-readme-streak-stats.herokuapp.com/?user=oChrys&theme=blueberry_duo"/>
 |---|---|
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=oChrys&layout=compact&theme=github_dark"/>|
 
 ## Programming Languages
 
@@ -38,7 +37,7 @@
     <a href="#"><img alt="HTML" src="https://img.shields.io/badge/HTML%20-%23E34F26.svg?logo=html5&logoColor=white"></a>
     <a href="#"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?logo=javascript&logoColor=black"></a>
     <a href="#"><img alt="Markdown" src="https://img.shields.io/badge/Markdown-%23000000.svg?logo=markdown&logoColor=white"></a>
-	<a href="#"><img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=whitee"></a>
+	<a href="#"><img alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?logo=java&logoColor=blue"></a>
 	
 </p>
 
@@ -49,7 +48,7 @@
 
 ## Operating Systems
 <p>
-	<a href="#"><img alt="ArchLinux" src="https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff&style=flat-square"></a>
+	<a href="#"><img alt="ArchLinux" src="https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white"></a>
 	<a href="#"><img alt="Windows" src="https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=white"></a>
 	<a href="#"><img alt="Manjaro" src="https://img.shields.io/badge/manjaro-35BF5C?style=for-the-badge&logo=manjaro&logoColor=white"></a>
 	
@@ -57,6 +56,7 @@
 
 ## Browsers
 <p>
+    <a href="#"><img alt="Brave" src="https://img.shields.io/badge/Brave-FB542B?logo=brave&logoColor=white"></a>
 	<a href="#"><img alt="Opera" src="https://img.shields.io/badge/Opera-FF1B2D?style=for-the-badge&logo=Opera&logoColor=white"></a>
 	<a href="#"><img alt="Chrome" src="https://img.shields.io/badge/Google_chrome-4285F4?logo=Google-Chrome&logoColor=white"></a>
 	<a href="#"><img alt="Firefox" src="https://img.shields.io/badge/Firefox_Browser-FF7139?style=for-the-badge&logo=Firefox-Browser&logoColor=white"></a>
@@ -79,6 +79,8 @@
 	<a href="#"><img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white"></a>
 </p>
 
+![𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://activity-graph.herokuapp.com/graph?username=oChrys&theme=react-dark&hide_border=true&area=true)
+
 ## Connect with Me
 
 
@@ -91,6 +93,14 @@
 <a href="http://twitter.com/ChrysChrys123"><img alt="Twitter" title="Chrys Twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a>
 </p>
 
-------
-[Jaydeep-Yadav](https://github.com/jaydeep-yadav)
-Last Edited on - 11/10/2021
+<p align="center">
+    <a href="https://github.com/oChrys">
+        <img src="https://komarev.com/ghpvc/?username=oChrys" alt="oChrys" />
+    </a>
+    <a href="https://github.com/oChrys">
+        <img height="20" src="https://img.shields.io/github/followers/oChrys?label=follow&logo=github" />
+	</a>
+	 <a href="https://github.com/oChrys">
+        <img height="20" src="https://img.shields.io/github/stars/oChrys?label=stars&logo=github" />
+	</a>
+</p>
