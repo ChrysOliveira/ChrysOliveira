@@ -27,7 +27,7 @@
  
 ## Github Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=oChrys&&show_icons=true&count_private=true&theme=github_dark">|<img src="https://github-readme-streak-stats.herokuapp.com/?user=oChrys&theme=blueberry_duo"/>
+<img src="https://github-readme-stats.vercel.app/api?username=ChrysOliveira&&show_icons=true&count_private=true&theme=github_dark">|<img src="https://github-readme-streak-stats.herokuapp.com/?user=ChrysOliveira&theme=blueberry_duo"/>
 |---|---|
 
 ## Programming Languages
@@ -79,14 +79,14 @@
 	<a href="#"><img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white"></a>
 </p>
 
-![𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://activity-graph.herokuapp.com/graph?username=oChrys&theme=react-dark&hide_border=true&area=true)
+![𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://activity-graph.herokuapp.com/graph?username=ChrysOliveira&theme=react-dark&hide_border=true&area=true)
 
 ## Connect with Me
 
 
 <p align="center">
   <a href="https://linkedin.com/in/chrystianmoliveira"><img alt="Linkedin" title="Chrys Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="https://github.com/oChrys"><img alt="Github" title="Chrys Github" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
+  <a href="https://github.com/ChrysOliveira"><img alt="Github" title="Chrys Github" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
  </p>
  <p align="center">
   <a href="mailto:chrystianmoliveira7@gmail.com"><img alt="Gmail" title="Chrys Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
@@ -94,13 +94,13 @@
 </p>
 
 <p align="center">
-    <a href="https://github.com/oChrys">
-        <img src="https://komarev.com/ghpvc/?username=oChrys" alt="oChrys" />
+    <a href="https://github.com/ChrysOliveira">
+        <img src="https://komarev.com/ghpvc/?username=ChrysOliveira" alt="ChrysOliveira" />
     </a>
-    <a href="https://github.com/oChrys">
-        <img height="20" src="https://img.shields.io/github/followers/oChrys?label=follow&logo=github" />
+    <a href="https://github.com/ChrysOliveira">
+        <img height="20" src="https://img.shields.io/github/followers/ChrysOliveira?label=follow&logo=github" />
 	</a>
-	 <a href="https://github.com/oChrys">
-        <img height="20" src="https://img.shields.io/github/stars/oChrys?label=stars&logo=github" />
+	 <a href="https://github.com/ChrysOliveira">
+        <img height="20" src="https://img.shields.io/github/stars/ChrysOliveira?label=stars&logo=github" />
 	</a>
 </p>
