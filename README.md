@@ -5,10 +5,10 @@
     user = 'Chrys Oliveira'
 	current_edu = "SENAC"
     currently_learning = ".NET Ecosystem"
-    fun_fact = "I use arch btw"
+    fun_fact = "I use Arch btw"
 	hobbies = [
 				'Music',
-                         	'Copy rices',
+                         'Copy rices',
 			 	'Movies'
 			]
 	
