@@ -1,18 +1,15 @@
-![Github Banner](https://github.com/Jaydeep-Yadav/Jaydeep-Yadav/blob/main/banner.png)
-
 ## Who am I?
 
  ```python
   class WhoAmI:
     user = 'Chrys Oliveira'
 	current_edu = "SENAC"
-    currently_learning = "Java/Spring"
+    currently_learning = ".NET Ecosystem"
     fun_fact = "I use arch btw"
 	hobbies = [
 				'Music',
-                         'Chilling',
-			 	'Gaming',
-				'Animes'
+                         	'Copy rices',
+			 	'Movies'
 			]
 	
 	def getCity():
