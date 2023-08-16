@@ -6,7 +6,7 @@ Sobre mim:
 	formacaoAtual = "Bacharelado em Ciência da Computação - SENAC (cursando)"
     tecnologiasEstudando = ".NET e Python"
 	hobbies = [
-				'LoL',
+				'Jogos',
                          'Leituras',
 			 	'Filmes',
 			'Série',
