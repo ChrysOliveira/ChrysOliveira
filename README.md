@@ -1,4 +1,4 @@
-## Who am I?
+Sobre mim:
 
  ```python
   class Usuario:
@@ -11,7 +11,7 @@
 			 	'Filmes',
 			'Série',
 				'Passeios',
-			'Videos de culinária e imóveis rs'
+			'Vídeos de culinária e imóveis rs'
 			]
 	
 	def GetCidade():
