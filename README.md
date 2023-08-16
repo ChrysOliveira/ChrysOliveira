@@ -1,23 +1,26 @@
 ## Who am I?
 
  ```python
-  class WhoAmI:
-    user = 'Chrys Oliveira'
-	current_edu = "SENAC"
-    currently_learning = ".NET Ecosystem"
-    fun_fact = "I use Arch btw"
+  class Usuario:
+    nome = 'Chrystian Oliveira'
+	formacaoAtual = "Bacharelado em Ciência da Computação - SENAC (cursando)"
+    tecnologiasEstudando = ".NET e Python"
 	hobbies = [
-				'Music',
-                         'Copy rices',
-			 	'Movies'
+				'LoL',
+                         'Leituras',
+			 	'Filmes',
+			'Série',
+				'Passeios',
+			'Videos de culinária e imóveis rs'
 			]
 	
-	def getCity():
-		return SaoPaulo_Brazil()
+	def GetCidade():
+		return 'São Paulo - SP'
 	
-	def Ambitions():
-		BecomeSoftwareDeveloper()
-		FinishMyProjects()
+	def Ambicoes():
+		SerDesenvolvedor()
+		FinalizarOAlgoritmoDoCormen()
+		FinalizarAGraduacao()
 	
  ```
 
