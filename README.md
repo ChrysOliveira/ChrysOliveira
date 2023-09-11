@@ -4,13 +4,13 @@ Sobre mim:
 class Usuario:
     '''Um pouquinho sobre mim:'''
 
-    nome = 'Chrystian Oliveira'
+    nome = "Chrystian Oliveira"
     formacao = "Cursando Bacharelado em Ciência da Computação - SENAC"
     tecnologias_aprendendo = {1: "Python/Django", 2: ".NET/ASP.NET Core"}
-    hobbies = ['Coding' ,'Jogos', 'Leituras', 'Filmes', 'Série', 'Passeios', 'Vídeos de culinária e imóveis rs']
+    hobbies = ["Coding" ,"Jogos", "Leituras", "Filmes", "Série", "Passeios", "Vídeos de culinária e imóveis"]
 	
 def GetCidade():
-    return 'São Paulo - SP'
+    return "São Paulo - SP"
 	
 def Objetivo():
     SerDesenvolvedorWEB()
