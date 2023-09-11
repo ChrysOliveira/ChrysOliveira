@@ -2,23 +2,17 @@ Sobre mim:
 
  ```python
   class Usuario:
-    nome = 'Chrystian Oliveira'
-	formacaoAtual = "Bacharelado em Ciência da Computação - SENAC (cursando)"
-    tecnologiasEstudando = ".NET e Python"
-	hobbies = [
-				'Jogos',
-                         'Leituras',
-			 	'Filmes',
-			'Série',
-				'Passeios',
-			'Vídeos de culinária e imóveis rs'
-			]
+	'''Um pouquinho sobre mim:'''
+    	nome = 'Chrystian Oliveira'
+	formacao = "Cursando Bacharelado em Ciência da Computação - SENAC"
+    	tecnologias_aprendendo = {1: "Python/Django", 2: ".NET/ASP.NET Core"}
+	hobbies = ['Coding' ,'Jogos', 'Leituras', 'Filmes', 'Série', 'Passeios', 'Vídeos de culinária e imóveis rs']
 	
 	def GetCidade():
 		return 'São Paulo - SP'
 	
-	def Ambicoes():
-		SerDesenvolvedor()
+	def Objetivo():
+		SerDesenvolvedorWEB()
 		FinalizarOAlgoritmoDoCormen()
 		FinalizarAGraduacao()
 	
