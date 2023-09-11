@@ -1,20 +1,21 @@
 Sobre mim:
 
  ```python
-  class Usuario:
-	'''Um pouquinho sobre mim:'''
-    	nome = 'Chrystian Oliveira'
-	formacao = "Cursando Bacharelado em Ciência da Computação - SENAC"
-    	tecnologias_aprendendo = {1: "Python/Django", 2: ".NET/ASP.NET Core"}
-	hobbies = ['Coding' ,'Jogos', 'Leituras', 'Filmes', 'Série', 'Passeios', 'Vídeos de culinária e imóveis rs']
+class Usuario:
+    '''Um pouquinho sobre mim:'''
+
+    nome = 'Chrystian Oliveira'
+    formacao = "Cursando Bacharelado em Ciência da Computação - SENAC"
+    tecnologias_aprendendo = {1: "Python/Django", 2: ".NET/ASP.NET Core"}
+    hobbies = ['Coding' ,'Jogos', 'Leituras', 'Filmes', 'Série', 'Passeios', 'Vídeos de culinária e imóveis rs']
 	
-	def GetCidade():
-		return 'São Paulo - SP'
+def GetCidade():
+    return 'São Paulo - SP'
 	
-	def Objetivo():
-		SerDesenvolvedorWEB()
-		FinalizarOAlgoritmoDoCormen()
-		FinalizarAGraduacao()
+def Objetivo():
+    SerDesenvolvedorWEB()
+    FinalizarOAlgoritmoDoCormen()
+    FinalizarAGraduacao()
 	
  ```
 
