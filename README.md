@@ -7,16 +7,11 @@ class Usuario:
 
     nome = "Chrystian Oliveira"
     formacao = "Cursando Bacharelado em Ciência da Computação - SENAC"
-    tecnologias_aprendendo = {1: "VueJs", 2: ".NET/ASP.NET Core"}
-    hobbies = ["Coding" ,"Jogos", "Leituras", "Filmes", "Série", "Passeios", "Vídeos de culinária e imóveis"]
+    tecnologias_momento = {1: "Java/Spring", 2: "Ruby", 3: "AWS"}
+    hobbies = ["Coding" ,"Leituras", "Filmes", "Série", "Passeios", "Podcasts"]
 	
 def GetCidade():
     return "São Paulo - SP"
-	
-def Objetivo():
-    SerDesenvolvedorWEB()
-    FinalizarOAlgoritmoDoCormen()
-    FinalizarAGraduacao()
 	
  ```
 
