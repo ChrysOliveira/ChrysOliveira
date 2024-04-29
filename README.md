@@ -7,8 +7,8 @@ class Usuario:
 
     nome = "Chrystian Oliveira"
     formacao = "Cursando Bacharelado em Ciência da Computação - SENAC"
-    tecnologias_momento = {1: "Java/Spring", 2: "Ruby", 3: "AWS"}
-    hobbies = ["Coding" ,"Leituras", "Filmes", "Série", "Passeios", "Podcasts"]
+    tecnologias_momento = {1: "Java/Spring", 2: "AWS", 3: "500 linguagens que usamos na faculdade"}
+    hobbies = ["Coding" ,"Leituras", "Filmes", "Série", "Passeios", "Podcasts", "Games"]
 	
 def GetCidade():
     return "São Paulo - SP"
